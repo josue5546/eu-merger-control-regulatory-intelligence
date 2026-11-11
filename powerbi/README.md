@@ -48,12 +48,6 @@ Translates analytical evidence into three proposed workstreams:
 - Relational modelling of cases, decisions and sector memberships.
 - Statistical results prepared through Python.
 
-## How to use the dashboard
-
-Open the PDF for a visual overview of the final dashboard.
-
-If the original `.pbix` file is provided, it can be opened in Power BI Desktop to inspect the data model, measures and interactive visuals.
-
 ## Important limitations
 
 The dashboard is based on historical published merger-control information. Different measures use different eligible populations.
