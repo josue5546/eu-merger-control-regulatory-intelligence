@@ -27,12 +27,6 @@ The 17-slide presentation covers:
 
 The recommended approach is to establish filing obligations, assess competitive overlaps and prepare review-timing contingencies before committing to transaction assumptions.
 
-## How to use the presentation
-
-The slides are designed for a short management briefing or consulting case-study presentation.
-
-The PowerPoint file is editable, allowing the charts, text and recommendations to be adapted for professional discussions or portfolio demonstrations.
-
 ## Scope
 
 The presentation reflects a simulated advisory engagement. All proposed workstreams and management actions are recommendations rather than implemented activities.
